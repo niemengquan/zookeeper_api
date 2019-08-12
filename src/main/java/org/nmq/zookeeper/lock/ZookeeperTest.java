@@ -1,4 +1,4 @@
-package org.nmq.zookeeper;
+package org.nmq.zookeeper.lock;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;

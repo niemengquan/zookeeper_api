@@ -1,4 +1,4 @@
-package org.nmq.zookeeper;
+package org.nmq.zookeeper.lock;
 
 import org.I0Itec.zkclient.IZkChildListener;
 import org.I0Itec.zkclient.IZkDataListener;
